@@ -11,7 +11,8 @@ I also prepared a test dataset of about 100 samples (from the Politifact Dataset
 
 The K-Mediods Clustering gave the accuracy of about 84 %, while the K-Modes Clustering gave the accuracy of about 81 %.
 
-![image](https://user-images.githubusercontent.com/53210156/162462839-c2db3d20-cc9b-4a07-a79b-508ecb3016f4.png)
+![image](https://user-images.githubusercontent.com/53210156/162463116-775eb557-aef4-45ca-8b63-f0202fcc4412.png)
+
 
 
 
